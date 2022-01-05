@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Laser Kesim"
+title:  "Tuna Halı Yıkama"
 authors: #[]
-categories: ["laser-kesim"]
+categories: ["hali-yikama"]
 image: assets/images/posts/laser-kesim.png
-tags: [laser]
+tags: [hali]
 sticky: true
 featured: true
 # For adding excerpt add <!--more--> and break the line

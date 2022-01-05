@@ -1,20 +1,20 @@
 # Site
-name: 'Ertech Laser'
+name: 'Tuna Halı Yıkama'
 language: "tr"
-description: 'Ertech Laser Kesim Makina.'
+description: 'Gebze Tuna Hali Koltuk Yıkama'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
 baseurl: ''
 
 # Social Settings
 disqus: #'demowebsite'
-email: 'ertech@ertechlazer.com.tr'
+email: 'ysfkaraman61@outlook.com'
 mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 google_analytics: #'UA-53710816-14'
 katalogurl: #'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html'
-twitter: 'https://twitter.com/ertechlaser'
-facebook: 'https://www.facebook.com/ertechlaser'
-instagram: 'https://instagram.com/ertechlaser'
+twitter: 'h'
+facebook: 'https://www.facebook.com/tuna-hali-yikamagebze'
+instagram: 'https://instagram.com/tunahaliyikamagebze'
 youtube: 'https://www.youtube.com/channel/ertechlaser'
 
 pagepreview:
